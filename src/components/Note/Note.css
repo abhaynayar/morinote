@@ -1,0 +1,8 @@
+.notePage {
+  width: 300px;
+  display: inline-block;
+}
+
+.noteContent {
+  white-space: pre-line;
+}
